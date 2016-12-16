@@ -1,5 +1,6 @@
 # autocmplet
 /*......................short code for auto cmplt...............*/
+ 
  $("#searchForm").submit(function(){
    
     selectedUrl = $('.searchresult ul li.selected a').attr('href');
